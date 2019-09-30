@@ -1,5 +1,5 @@
 {
-  "name": "softonic/laravel-intelligent-scraper",
+  "name": "responsilicious/laravel-intelligent-scraper",
   "type": "library",
   "description" : "Service to scrape a web page easily without knowing their HTML structure.",
   "keywords": ["laravel", "scraper", "intelligent", "automatic"],
